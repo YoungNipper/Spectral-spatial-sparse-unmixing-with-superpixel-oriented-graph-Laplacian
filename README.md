@@ -1,0 +1,2 @@
+# Spectral-spatial-sparse-unmixing-with-superpixel-oriented-graph-Laplacian
+本文章提出了超像素导向图拉普拉斯稀疏光谱-空间混合像元分解（SGLapS3U）方法，使用超像素分割算法SLIC提取图像中的均匀区域，然后应用图拉普拉斯正则化来减少相同类型混合像素的丰度差异，从而有效利用空间相关性。并引入谱-空间加权因子来增强丰度矩阵的行稀疏性，同时保持图像的连续性，避免超像素分割可能导致的不准确混合结果。
